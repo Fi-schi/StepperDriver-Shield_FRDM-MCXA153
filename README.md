@@ -1,6 +1,6 @@
 # StepperDriver-Shield_FRDM-MCXA153
 
-This is a shield for the FRDM-MCXA153 microcontroller, developed as part of a project at the Hochschule Wismar, University of Applied Sciences: Technology, Economy and Design.
+This is a shield for the FRDM-MCXA153 microcontroller, developed as part of my mechatronic course project at the Hochschule Wismar, University of Applied Sciences: Technology, Economy and Design.
 
 The board acts as a carrier for the TMC-2209 stepper drivers and allows up to four stepper motors to be controlled simultaneously.
 
