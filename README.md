@@ -12,7 +12,7 @@ In addition, by soldering a DC-DC converter to the microcontroller, it is possib
 # Parts for the shield
 
 | Qty. | Part          | Size   | Links |
-|------|:-------------:|:------:|------:|
+|------|:-------------:|:------:|:------|
 |  4x  |     0.1µF     | 0805   |  |
 |  4x  |    100µF/35V  | 6.3mm  |  |
 |  13x |    10K&Omega; | 0805   |  |
@@ -35,6 +35,6 @@ In addition, by soldering a DC-DC converter to the microcontroller, it is possib
 # Parts for the microcontroller external power supply
 
 | Qty. | Part          | Size   | Links |
-|------|:-------------:|:------:|------:|
+|------|:-------------:|:------:|:------|
 |  1x  | DC/DC to 5v/500mA| SIP-3  | https://www.mouser.de/ProductDetail/919-R-78CK5.0-0.5 |
 |  2x  |    1µF/35V  | 0603  |  |
