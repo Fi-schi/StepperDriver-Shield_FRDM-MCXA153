@@ -14,7 +14,7 @@ In addition, by soldering a DC-DC converter to the microcontroller, it is possib
 | Qty. | Part          | Size   | Links |
 |------|:-------------:|:------:|:------|
 |  4x  |     0.1µF     | 0805   |  |
-|  4x  |    100µF/35V  | 6.3mm  |  |
+|  4x  |    100µF/35V  | 6.3mm  | https://www.mouser.de/ProductDetail/661-EMZR350ARA101MF6 |
 |  13x |    10K&Omega; | 0805   |  |
 |  4x  |    100&Omega; | 0805   |  |
 |  1x  |    1K&Omega;  | 0805   |  |
