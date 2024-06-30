@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,8.0.3*%
-%TF.CreationDate,2024-06-29T14:46:45+02:00*%
+%TF.CreationDate,2024-06-30T11:50:47+02:00*%
 %TF.ProjectId,StepperDriver-Shield_FRDM-MCXA153,53746570-7065-4724-9472-697665722d53,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.3) date 2024-06-29 14:46:45*
+G04 Created by KiCad (PCBNEW 8.0.3) date 2024-06-30 11:50:47*
 %MOMM*%
 %LPD*%
 G01*
@@ -2352,11 +2352,6 @@ X139323750Y-110185200D03*
 D15*
 %TO.C,H2*%
 X174306222Y-70274168D03*
-%TD*%
-D23*
-%TO.C,R21*%
-X144373600Y-112150400D03*
-X144373600Y-110150400D03*
 %TD*%
 D13*
 %TO.C,R9*%
