@@ -25,7 +25,7 @@ In addition, by soldering a DC-DC converter to the microcontroller, it is possib
 |  4x  | 1x04 JST_XH   | 2,54mm |  |
 |  1x  | 1x02 PinHeader| 2,54mm |  |
 |  8x  | 1x03 PinHeader| 2,54mm |  |
-|  9x  | jumper bridge | 2,54mm |  |
+|  9x  | Pin Header Jumper | 2,54mm |  |
 |  1x  | AMASS XT60PW-M|        |  |
 |  1x  | 2x06 PinHeader (SSW-106-23-G-D) | 2,54mm| https://www.samtec.com/de/products/ssw-106-23-g-d |
 |  1x  | 2x08 PinHeader (SSW-108-23-G-D) | 2,54mm| https://www.samtec.com/de/products/ssw-108-23-g-d |
