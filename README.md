@@ -16,13 +16,15 @@ In addition, by soldering a DC-DC converter to the microcontroller, it is possib
 
 | Qty. | Part          | Size   | Links |
 |------|:-------------:|:------:|:------|
-|  4x  |     0.1µF     | 0805   |  |
+|  7x  |     0.1µF     | 0805   |  |
 |  4x  |    100µF/35V  | 6.3mm  | https://www.mouser.de/ProductDetail/661-EMZR350ARA101MF6 |
 |  13x |    10K&Omega; | 0805   |  |
 |  4x  |    100&Omega; | 0805   |  |
 |  1x  |    1K&Omega;  | 0805   |  |
 |  4x  |TVS-Diode 3.3V | 0603   | https://www.mouser.de/ProductDetail/652-CG0603MLC-3.3LE |
 |  1x  |   74LVC2G00   |TSSOP-8 | https://www.mouser.de/ProductDetail/771-LVC2G00DP125 |
+|  1x  |SN74LXC2T45-Q1 | 	VSSOP | https://www.mouser.de/ProductDetail/595-74LXC2T45QDCURQ1 |
+|  1x  |    WS2812B    |        |  | 
 |  5x  |Tactile Switch | 6x6mm  | https://www.mouser.de/ProductDetail/710-430133050816 |
 |  4x  | 1x02 JST_XH   | 2,54mm |  |
 |  4x  | 1x04 JST_XH   | 2,54mm |  |
